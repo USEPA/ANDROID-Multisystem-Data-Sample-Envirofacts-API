@@ -1,6 +1,6 @@
 This API data sample will provide the steps to create a simple Android application that can consume EPA Envirofacts Multisystem Data. The Envirofacts Multisystem data is comprised of multiple environmental databases for facility information, including toxic chemical releases, water discharge permit compliance, hazardous waste handling processes, Superfund status, and air emission estimates. 
 
-Download the code sample project (Jar file) in order to get the Eclipse Project files.  Project code and step-by-step guidance for this API sample project can be found here: http://epa.gov/developer/android.html#create
+Download the code sample project (Jar file) in order to get the Eclipse Project files.  Project code and step-by-step guidance for this API sample project can be found here: http://developer.epa.gov/android-sample-code/
 
 The United States Environmental Protection Agency (EPA) GitHub project code is provided on an "as is" basis and the user assumes responsibility for its use.
 
